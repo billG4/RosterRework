@@ -1,0 +1,202 @@
+***Installation instructions***
+
+Copy the data folder into the DAC folder, overwrite everything when asked, run cleaner and have fun!)
+
+
+
+
+***Maverick's GONDOR AT WAR***
+ ***V1***
+*Lords*
+
+- Beregond - Captain of the Citadel guard, spawns outside of Minas Titirh with two companies of Citadel Guards (Citadel Guard BG)
+- Damrod - Spawns south of Osgiliath with two companies of Rangers (Ithilien Ranger BG) - Lost one unit of IR
+- Mablung - Spawns in the north of Ithilien with two companies of Rangers (Ithilien Ranger BG) - Lost one unit of IR
+- Ingold - Guardian of Forannest, the northern gate of the Rammas Echor, starts at the north gate with one Gondor Infantry(BG) and one Gondor Archer
+- Dírahael - Starts in the Blackroot Vale with Blackroot vale archers(BG) - Lost one unit of BVA
+- Duraladh - Starts in the Blackroot Vale with Blackroot vale archers(BG) - Lost one unit of BVA
+- Baranor - Captain of the Silver Company(made up pikemen unit deal with it) starts South of Minas Tirith with two units of Gondor Pikemen(Pikemen BG)
+- Adrahil - Talon Knights (Spawns outside of Dol Amroth once the realm is united) 
+- Imrahil - Royal Swan Guard (Spawns outside of Methrast once the realm is united)
+- Istion - Royal Swan Guard (Spawns outside of the fort North of Methrast once the realm is united)
+- Amandir - Royal Swan Guard (Spawns outside of Linhir once the realm is united)
+- Mistven - White Knights of Edhellond (Spawns outside of Edhellond once the realm is united)
+- Baragund - Gondor BG (Does not spawn when the realm is united, if he is dead by then he is gone)
+
+*New Ancillaries*
+
+- Denethor - Lord of Anorien +2 trade, 1+ charmLerynian +2 Public Happiness -20 recruitment cost
+- Turlin - Lord of Brethil +1 charm, +1 loyalty, +2 Public Happiness
+- Hanion - Lord of Fanuilond +2 Authority , +1 loyalty, +2 Public Happiness
+- Iorthon - Lord of Tarnost +2 Authority, +1 Loyalty, +2 Command (Commanding infantry)
+- Dinenion - Lord of Ras Morthil +2 trade, 1+ charm, 1+ Public Happiness
+- Ingold - Guardian of Forannest +2 troop morale, +1 hitpoints
+- Calemir - Lord of Calenhad +20% mining income, 2+ loyalty 1+ charm / Commander of the Northern army 2+ command, 2+ loyalty
+- Hurin - Guardian of the Cair Andros 2+ troop morale, +2 command(infantry) +2 loyalty / Warden of the Keys +2 Public Happiness
+- Boromir - Defender of Osgiliath 2+ HitPoints, +2 command / Commander of the Eastern army 2+ command, 2+ loyalty
+- Hirluin - Commander of the Western Army 2+ command, 2+ loyalty
+- Mablung - Lieutenant of the Ithilien Rangers +1 Loyalty +1 Command (Ambushing)
+- Damrod - Lord of Emyn Arnen +2 Authority, +1 Loyalty +1 Command (Ambushing)
+- Imrahil - Commander of the Southern army 2+ command, 2+ loyalty
+
+
+***V2 changelong***
+
+*Scipts*
+- Unite the land! - Gondor and Dol Amroth is united as one faction at turn 1, gaining the powerful lords and settlements of Dol Amroth
+- Reclaim lost lands - Ostithil, Haudhanûr, Imlad Carnen, Barad Harn, Gobel Mirlond and Umbar. A governour and a small force to assist on further conquest, the lord will also spawn with the ancillary
+that covers the region/settlement that was conquered.
+- Faramir's return - If Faramir dies a script will trigger, 10 turns later he will respawn with Gondor Knights
+- Boromir's return - If Boromir dies a cript will trigger, 10 turns later he will respawn with Wardens of the white tower
+
+*Units and lords*
+- Boromir - Recieved Osgiliath Veterans as his BG (See Boromir's script)
+- Damrod - Lost one unit of Ithilien Rangers
+- Mablung - Lost one unit of Ithilien Rangers
+- Dírahael - Removed BRA unit, added three units to his army and moved him to guard the western border of Gondor near Cirith Iaur
+- Duraladh - Removed from the game
+- Baranor - Removed from the game
+- Gondor pikemen - Attack changed from 5 to 3
+- Royal Swan Guard - Changed from 60 to 30 men (Ultra settings)/ removed AP secondary attack
+- Coastal Wardens - Added to recruitment pool of coastal regions
+- Iorthon - Now starts with a unit of Dol Amroth Squires in Tarnost (Removed the Gondor Milita)
+- Baragund - Now starts with the Sea Ward Spearmen(changed from Gondor BG)
+- Turlin - Now have Lebennin Marines as his BG(changed from Gondor BG) also starts with one unit of Lebenning marines, removed the Gondor milita from the garrison
+- Hurin - Now have the Gondor Pikemen as his BG (changed from Gondor BG)
+- Calemir - Now have the Rohan Royal Guard as his BG(changed from Gondor BG)
+- Hanion - Now have the Lebennin Marines as his BG (changed from Gondor BG)
+- Golgasil - Added Anfalas Pikemen as his BG again
+- Added one unit of pikemen to the garrison at Osgiliath
+- Gondor Infantry - Added shield Wall
+- Veterans of Osgiliath - Added Shield Wall
+- Wardens of the White Tower - Added Shield Wall
+- Anfalas Pikemen have been added back in, attack changed from 3 to 2
+- Coastal wardens - Added 1 more javelin, they now have a total of 3
+- Lebennin Marines - Recruitable in Brethil
+
+*Ancillaries*
+- Added - Guardian of the Western border - +2 Authority, +2 Command / Dirhael starts with this
+- Added - lord of Dol Amroth ancillary / Adrahil now gets this trait when Gondor and DA is united
+- Added - Lerynian +2 Public Happiness -20 recruitment cost / Added to Denethor
+- Added - Lord of Linhir - +2 Authority, +1 Loyalty +1 Command / Amandir now gets this trait when Gondor and DA is united
+- Added - Lord of Gobel Tolfalas - +2 Authority, +1 Loyalty +1 Command / Baragund now gets this trait when Gondor and DA is united
+- Added - Lord of Amon Eithel - +2 Authority, +1 Loyalty, +2 Command (Commanding infantry)
+- Added - Lord of Umbar - +2 Authority, +1 Loyalty +1 Command
+- Added - Lord of Harondor - +2 Authority, +1 Loyalty +1 Command
+- Added - Lord Of South Harondor - +2 Authority, +1 Loyalty +1 Command
+
+
+
+***Swan's Dwarven TLC***
+- 2 new custom generals, Dwalin and Dori
+- Dwalin, Dori, and Gloin all have custom strat models (already in AGO)
+- Throne of Thrain gives Dalian units and Hearthguard
+- Sons of the Fallen and Dragonslayers are now recruitable from the barracks in Erebor
+- The Axeguard have been given BODY piercing throwing axes with 3 missiles
+- Lower two tiers have had their axe count increased by 2, total 4 missiles now.
+
+- Both Erebor and Khazad-Dûm can recieve a custom general with Hammers of Gundabad as his bodyguard when the dwarven grudges script finishes (credit to Fynn, this is his code)
+
+*Khazad-Dûm*
+- slightly more units when starting the journey and slightly more gold
+- Slightly more units spawn when you capture KD
+- Khazad-Dûm reclaimers have been given BODY piercing throwing hammers with 3 missiles 
+- When finishing the KD script line youll receive some thematic and higher tier units
+- Oin spawns with a custom strat model (already in AGO) and KD Reclaimers as his BG
+
+- The Hall of Seven building has been given a facelift and now gives represents of ALL 7 dwarf clans
+- Is available to ALL 3 dwarf nations and can be built in Mt. Gundabad as well as both KD's
+
+*Ered Luin*
+- New custom general spawns with Azaghal's Protectors as his BG, custom bio and ancillaries
+- If you reject the rings Grindfarn and an elite army of dwarves will spawn and attack Thorin's Halls at turn 50 (same as the Elf/ND attack)
+- Azaghal's Protectors and Grimborn reavers have been given free upkep
+- Removed recruitment restriction on Firebeard Warriors
+
+- Mining resources have been greatly increased across the whole map. Some factions are effected noticeably by this: Gundabad, Isengard, Misty Mountains, Dorwinion, Rhun, Dol Amroth, and the High Elves. To compensate for this the upkeep of dwarven units has been increased by 10% across the board with uber-elites being slightly more.
+
+- Ered Luin and KD can recruit merchant Cavalry and Infantry from the higher tiers of marketplace and bank
+
+- Reworked the dwarves hero ability. Now has 3 uses, 60 sec timer with 120 sec cool down, 50% combat effectiveness and -100% enemy combat effectiveness. 
+
+***Ghostfire's Expanded AGO***
+Gundabad: Dwarven Revenge Script: Once you capture 4 or main dwarven settlements, they will asemble a great host to lain ruin to your capital of Mount Gundabad.
+Script Rewards: Custom BG with Orc Avengers + Custom Building in Gundabad (Hall of Mockery) which gives major boni
+Gundabad gets generals throught the subjugation mechanic: Goblintown (Mountain Uruks), KD (Azog Defilers), Isengard (Berserkers), Dol Guldur (Goblin Headhunters), Black Gate (Black Uruks), Barad-dur (Saurons Will), Mt-Gramm (Mt Gramm Marauders)
+Custom BGs for Gondor, when Osgiliath gets Upgraded (Osgiliath Veterans) and when Minas Morgul gets reclaimed (Minas Ithil Guardians)
+Custom BGs for DA, when Minas Morgul gets reclaimed (Minas Ithil Guardians)
+Custom BGs for ND, when Minas Morgul gets reclaimed (Minas Ithil Guardians), Arnor gets restored (Arthedain Knights) and when Rudaur gets freed from Angmar (Rhudaur Huskarls)
+Custom BG for the dwarves, when Khazadum gets reclaimed (Khazad-dum Reclaimers)
+Changed some starting BG
+Oin now gets KD Reclaimers
+Palantir rework:
+				Dwarves: local: 5% construction cost, 5% construction time and 5% tax bonus
+						global: 5% construction cost, 5% construction time and 5% tax bonus
+				Elves: local: melee weapon bonus, missle weapon bonus, 3x trade bonus, 5% retrain bonus
+					  global: 10% hapiness bonus, 1x trade bonus
+				Numenoreans: local: melee weapon bonus, missle weapon bonus, 3x trade bonus, 5% retrain bonus
+							global: 10% hapiness bonus, 1x trade bonus, 5% retrain bonus
+				Northmen: local: melee weapon bonus, missle weapon bonus, 5% retrain bonus, 1x trade bonus
+				Wildmen/Easterlings: local: melee weapon bonus, 1x trade bonus
+				Orcs: local: melee weapon bonus
+Major Dol Amroth Rework: 5 Stages of Independence -> Stage 1: 0-25 IndependencePoints(IP), Stage 2: 25-50 IP, Stage 3: 50-75 IP, Stage 4: 75-100 IP, Stage 5 100+ IP
+						You start with 30 Points thus on Stage 2, you can advance/fall back till you reach stage 5
+						You gain/lose points the following ways: Win a battle (+1), Lose a battle (-2), Capture a Settlement (+2), Lose a Settlement (-3), If you hold more Settlements than Gondor (+2 - +24 per Turn) 
+						Stage 1: Access only to Gondor Militia, Archers Militia, Territorial Guardsmen, Gondor Infantry, Gondor Spearmen, Gondor Archers, Gondor Cavalary Militia
+						Stage 2: Local Access to DA Roster ( no Knight units)
+						Stage 3: Local Access to all DA Roster, slight recruitment bost
+								Global Access to: Amrothian Archers, Amrothian Guardsmen, Sea-ward Footmen, Sea-ward Spearmen, Amrothian Squires, Coastal Wardens
+								lose ability to train: Archers Militia, Territorial Guardsmen, Gondor Infantry, Gondor Spearmen, Gondor Archers, Gondor Cavalary Militia
+						Stage 4: Global Acces to: Sea-ward Lancers, Amrothian Pikemen, Haven Guard, Nimrodel Mariners, White Knights, Talon Knights
+						Stage 5: Choice between full Independence and Taking over Gondor
+						Independence: War with Gondor, Gondor gets a revenge Stack, + 2000 Kings Purse, access to Knights of the Silver Swan globally, Access to the Tirith Aer Units in most custom buildings (the same as the Naru n'aru units for AA)
+						Takeover: Gets All of Gondors Land, + 1000 Kingspurse, + 2000 money, Westgondor rebels, access to Gondors full roster
+						Coastal Wardens moved to the port buildings line thus giving DA the ability to train 3 units out of ports
+						each Stage give slight recruitment buffs, for globally accessable units
+						DA now gets the custom Gondor BGs when taking over
+Longbeard units of EL renamed to Firebeard Phalanx, Firebeard Crossbows and Broadbeam Swordsmen
+Longbeard Clan Hall added for EL -> recruitment of Legion Hammerguard, Legion Shieldguard, Kings Warriors and Kings Shields if EL goes good (Future Plans: Custom El Skin for them) + 0.5% pop growth
+						  for KD and Erebor -> 0.5% pop growth + faster replenishment for Legion Shield/Hammerguard (KD) or Kings Warriors/ Shields (Erebor)
+Buffed every Bodyguard Size a little bit
+GilGalads Company is now Bodypiercing and AP
+Hall of Mockery gives the scavenged dwarven armour
+Added Temple Units for AA in Durthang once Mordor is defeated
+Buffed Grey Company and Balins Guard in strengh so they are somewhat comparable to GilGalads Company in melee
+AA can rebuild the Black Pillar of Umbar once Mordor is defeated and they hold Barad-dûr
+Black Pillar -> recruitment Buff for Naru n'Aru Royal Knights and Naru n'Aru Royal Guard, recruitment of Royal Legion of Armenelos, global religion and moral bonus, trade bonus
+Custom BG for AA with Ar-Pharazons Faithful, when the Black Pillar is build
+AA Enhanced Conscription for every human nation, when the second tier of conscription is build in the capital of the nation
+							Angmar -> Nothern Sons
+							Harad -> Troll-men Hunters
+							Rohan -> Riddermark Cavalry
+							Enedwaith -> River Elders
+							Gondor -> Gondor Infantry
+							Dunland -> Frekkalingir
+							Bree -> Merchant Cavalry
+							Dale -> Aihwothiuda Horseguards
+							Anduin -> Eothed Horse Archers
+							Dorwinion -> Regent Bowguard
+							Dol Amroth -> Sea-ward Spearmen
+							Khand -> Warlords Kataphracts
+							Rhun -> Suriut Chariots
+Erebor gets Onazanar in auto-expansion
+Khazad dum gets Erui in auto-expansion						
+Added Royal Legion of Armenelos for the AA (very elite sword and shield unit) credit to the Reforged team
+New Laststand scripts for most factions
+----------------Changed Starting BG---------------
+Theoden -> Royal Guard
+Eomer -> Eored Lancers
+Mistven -> White Knights of Edhellon
+Araphor -> Cardolan Riders
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+
+
+
+
+
+
+
+
